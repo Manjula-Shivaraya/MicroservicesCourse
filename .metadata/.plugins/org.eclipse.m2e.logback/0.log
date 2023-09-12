@@ -65,3 +65,7 @@
 2023-09-12 11:37:24,995 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manjula_s\Desktop\Spring Course\MicroservicesCourse\department-service\src\test\resources
 2023-09-12 11:37:25,814 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-09-12 11:37:25,836 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-12 11:37:25,840 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manjula_s\Desktop\Spring Course\MicroservicesCourse\employee-service\src\test\resources
+2023-09-12 11:37:26,142 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-12 11:37:26,178 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-12 11:37:26,190 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manjula_s\Desktop\Spring Course\MicroservicesCourse\service-registry\src\test\resources
